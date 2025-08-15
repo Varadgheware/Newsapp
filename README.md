@@ -1,3 +1,8 @@
+![image alt](https://github.com/Varadgheware/Newsapp/blob/6f25d272f3887fb52efb6d1063d9091cd4507f71/Screenshot%202025-08-15%20185256.png)
+![image alt](https://github.com/Varadgheware/Newsapp/blob/6f25d272f3887fb52efb6d1063d9091cd4507f71/Screenshot%202025-08-15%20185256.png)
+![image alt](https://github.com/Varadgheware/Newsapp/blob/6f25d272f3887fb52efb6d1063d9091cd4507f71/Screenshot%202025-08-15%20185544.png)
+![image alt](https://github.com/Varadgheware/Newsapp/blob/6f25d272f3887fb52efb6d1063d9091cd4507f71/Screenshot%202025-08-15%20185604.png)
+![image alt](https://github.com/Varadgheware/Newsapp/blob/6f25d272f3887fb52efb6d1063d9091cd4507f71/Screenshot%202025-08-15%20185633.png)
 # React + Vite
 This is a full-stack News Application built using the MERN stack (MongoDB, Express, React, Node.js) that fetches and displays real-time news across various categories. Users can sign up, log in, and explore trending news fetched from external APIs using Axios.
 
