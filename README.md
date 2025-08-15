@@ -1,5 +1,5 @@
 ![image alt](https://github.com/Varadgheware/Newsapp/blob/6f25d272f3887fb52efb6d1063d9091cd4507f71/Screenshot%202025-08-15%20185256.png)
-![image alt](https://github.com/Varadgheware/Newsapp/blob/6f25d272f3887fb52efb6d1063d9091cd4507f71/Screenshot%202025-08-15%20185256.png)
+![image alt](https://github.com/Varadgheware/Newsapp/blob/c316e1aaaf8b613b06bb311b808c308a230f745a/Screenshot%202025-08-15%20185312.png)
 ![image alt](https://github.com/Varadgheware/Newsapp/blob/6f25d272f3887fb52efb6d1063d9091cd4507f71/Screenshot%202025-08-15%20185544.png)
 ![image alt](https://github.com/Varadgheware/Newsapp/blob/6f25d272f3887fb52efb6d1063d9091cd4507f71/Screenshot%202025-08-15%20185604.png)
 ![image alt](https://github.com/Varadgheware/Newsapp/blob/6f25d272f3887fb52efb6d1063d9091cd4507f71/Screenshot%202025-08-15%20185633.png)
